@@ -7,10 +7,13 @@ div {
     clear: left;
 }
 
-#myList{
+#myList {
     list-style: circle;
 }
 
 
 
+#myList .kocka {
+    color: blue;
 
+}

@@ -1,12 +1,81 @@
-
 h1 {
-    color: red;
+    color: palegoldenrod;
 }
 
 h2 {
-   color: rgb(127, 127, 127);
+    color: red;
 }
 
 h3 {
-    color: #fa23fa;
+    color: palevioletred;
 }
+
+h4 {
+    color: peachpuff;
+}
+
+h5 {
+    color: black;
+}
+
+h6 {
+    color: purple;
+}
+
+
+li.pes {
+    list-style-type: circle;
+    color: green;
+}
+
+li.kocka {
+    list-style-type: circle;
+    color: purple;
+}
+
+li.kockopes {
+    list-style-type: circle;
+    color: bisque;
+}
+
+li.krecek {
+    list-style-type: circle;
+    color: aqua;
+    border: solid 2px #234345
+}
+
+
+
+ul {
+    list-style-position: inside;
+}
+
+td {
+    border: solid 2px #000000;
+    background-color: green
+    
+
+
+}
+
+ ul {
+        list-style-image: url('../images/kapka.jfif');
+    }
+    
+
+
+    a:visited {
+        color: pink;
+    }
+
+    a:hover {
+        color: violet;
+    }
+
+    a:link {
+        color: red;
+    }
+
+    a:active {
+        color: blue;
+    }

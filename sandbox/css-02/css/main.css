@@ -1,8 +1,8 @@
 body {
     background-color: white;
-    color: red;
+    color: black(0, 0, 0);
 }
 
 a:visited {
-    color: red !important;
+    color: black !important;
 }

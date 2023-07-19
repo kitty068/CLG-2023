@@ -3,7 +3,7 @@ body {
     color: red;
 }
 
-img {
+img { border-radius: 15px;
     float: left;
     width: 250px;
     height: auto;
@@ -12,4 +12,10 @@ img {
 
 div {
     clear: left;
+}
+#footer{
+    color: black;
+}
+.content{
+    color:orange
 }
